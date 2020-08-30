@@ -1,0 +1,12 @@
+[package]
+name = "rust-fractal-video"
+version = "0.1.0"
+authors = ["jackyarndley <34801340+jackyarndley@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "^0.23.6"
+rayon = "^1.3.1"
+subprocess = "^0.2.4"
